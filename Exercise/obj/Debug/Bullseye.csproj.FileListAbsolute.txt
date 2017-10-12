@@ -1,0 +1,7 @@
+c:\users\annelie.karlsson.aus-readingroom\documents\visual studio 2010\Projects\Bullseye\Bullseye\bin\Bullseye.dll
+c:\users\annelie.karlsson.aus-readingroom\documents\visual studio 2010\Projects\Bullseye\Bullseye\bin\Bullseye.pdb
+c:\users\annelie.karlsson.aus-readingroom\documents\visual studio 2010\Projects\Bullseye\Bullseye\obj\Debug\ResolveAssemblyReference.cache
+c:\users\annelie.karlsson.aus-readingroom\documents\visual studio 2010\Projects\Bullseye\Bullseye\obj\Debug\Bullseye.dll
+c:\users\annelie.karlsson.aus-readingroom\documents\visual studio 2010\Projects\Bullseye\Bullseye\obj\Debug\Bullseye.pdb
+C:\Users\annelie.karlsson.AUS-READINGROOM\documents\visual studio 2010\Projects\Bullseye\Bullseye\bin\Common.dll
+C:\Users\annelie.karlsson.AUS-READINGROOM\documents\visual studio 2010\Projects\Bullseye\Bullseye\bin\Common.pdb
